@@ -1,0 +1,109 @@
+.first-div {
+  text-align: left;
+  color: red;
+  background-color: aquamarine;
+}
+.second-div {
+  text-align: right;
+  color: gray;
+  font-size: large;
+}
+.registration-form {
+  text-align: center;
+  background-color: #fff;
+}
+.chipotle-logo {
+  width: 84px;
+  height: 84px;
+  padding-top: 40px;
+}
+.reward {
+  text-align: center;
+  font-size: 16px;
+  color: #786259;
+}
+.header {
+  color: #451400;
+  font-family: Trade Gothic LT Bold, Helvetica Neue, Arial, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+.create-account {
+  background-color: #451400;
+  color: #fff;
+  border: 1px solid#451400;
+  height: 2.5em;
+  width: 35%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  box-sizing: border-box;
+  margin-top: 2.25em;
+  height: 2.5em;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.textbox {
+  width: 21%;
+  font-size: 1em;
+  border: none;
+  border-bottom: 1px solid rgba(69, 20, 0, 0.2);
+  padding-top: 20px;
+}
+.small-text {
+  margin-top: 0.5em;
+  font-size: 0.75em;
+  color: #786259;
+  font-family: Nunito, Helvetica Neue, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+}
+.question {
+  font-size: 0.875em;
+  color: #786259;
+  margin-top: 2em;
+  width: 80%;
+}
+.promotions {
+  width: 75%;
+  color: #786259;
+}
+.no-radio {
+  margin-left: 80px;
+}
+.ordered-list {
+  text-align: left;
+  padding-left: 380px lpx;
+}
+.member {
+  font-size: 1.125em;
+  padding: 0 3.85em;
+  font-family: Trade Gothic LT Bold, Helvetica Neue, Arial, sans-serif,
+    Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-weight: 700;
+  color: #451400;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 1.5em;
+  padding: 0 1em;
+  width: 20%;
+  margin-left: 32em;
+}
+.terms {
+  margin-top: 12em;
+  text-align: left;
+  font-size: 0.75em;
+  display: block;
+  block-size: border-box;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-left: 42em;
+  font-family: Nunito, Helvetica Neue, Arial, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol;
+  color: #786259;
+}
